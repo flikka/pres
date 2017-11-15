@@ -2,15 +2,11 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 
 ---
 
-## About me:
+#### About me:
 - Works for Statoil with Data Science "technologies"
 - Computer science / developer background
  
- ---
- 
- Knaskenspill
- 
- ---
+---
  
 ![Statoil Digitalization](https://raw.githubusercontent.com/flikka/pres/master/images/statoil_digitalisering.png)
 
