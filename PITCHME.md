@@ -6,9 +6,7 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 - Works for Statoil with Data Science "technologies"
 - Computer science / developer background
  
----
- 
-![Statoil Digitalization](assets/images/statoil_digitalisering.png)
+---?image=assets/images/statoil_digitalisering.png
 
 ---
 
