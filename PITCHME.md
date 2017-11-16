@@ -55,9 +55,9 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 - Goal 3: Automatically order parts and schedule maintenance based on condition |
  - Depends on a lot of other IT systems, vendors, etc. Will the cost of implementing it be worth the gain we get? |
 ---
-# Digitalization is a strategy, not a thing you can buy
+Digitalization is a strategy, not a thing you can buy
 ---
-# (New and unchartered) collaborative constellations is the only way to succeed.
+(New and unchartered) collaborative constellations is the only way to succeed.
 ---?image=assets/images/values.png
 
 
