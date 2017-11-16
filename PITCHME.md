@@ -36,10 +36,10 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 ---
 
 ## Example:
-- Maintenance of equipment
-- Limited lifetime
-- Premature failures
-- Extended lifetime
+- Maintenance of equipment |
+- Limited lifetime |
+- Premature failures |
+- Extended lifetime |
 
 ---
 ### Based on the goals, the path to success will vary!
@@ -50,11 +50,11 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 ---
 ### Based on the goals, the path to success will vary!
 - Goal 1: Enable experts to keep an eye on important indicators |
--- Agree on common data models, master data, data storage platforms, visualization tools.
+ - Agree on common data models, master data, data storage platforms, visualization tools.
 - Goal 2: Calculate remaining useful life |
--- Could be easy, could be difficult, could be impossible |
+ - Could be easy, could be difficult, could be impossible |
 - Goal 3: Automatically order parts and schedule maintenance based on condition |
--- Depends on a lot of other IT systems, vendors, etc.
+ - Depends on a lot of other IT systems, vendors, etc. |
 
 ---
 # Digitalization is a strategy, not a thing you can buy
