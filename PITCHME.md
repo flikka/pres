@@ -43,25 +43,22 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 
 ---
 ### Based on the goals, the path to success will vary!
-- Goal 1: Enable experts to keep an eye on important indicators |
-- Goal 2: Calculate remaining useful life |
-- Goal 3: Automatically order parts and schedule maintenance based on condition |
-
 ---
 ### Based on the goals, the path to success will vary!
 ---
--Goal 1: Enable experts to keep an eye on important indicators |
- - Agree on common data models, master data, data storage platforms, visualization tools.
+- Goal 1: Enable experts to keep an eye on important indicators |
+ - Agree on common data models, master data, make data available through data storage platforms, start using visualization tools.
 ---
 - Goal 2: Calculate remaining useful life |
- - Could be easy, could be difficult, could be impossible |
+ - Could be easy, could be difficult, could be impossible. Simple "data science" task, or a separate R&D project |
 ---
 - Goal 3: Automatically order parts and schedule maintenance based on condition |
- - Depends on a lot of other IT systems, vendors, etc. |
+ - Depends on a lot of other IT systems, vendors, etc. Will the cost of implementing it be worth the gain we get? |
 ---
 # Digitalization is a strategy, not a thing you can buy
-
 ---
-# (New and unchartered) collaborative constellations is the only way
+# (New and unchartered) collaborative constellations is the only way to succeed.
+---
+![Values](assets/images/values.png)
 
 
