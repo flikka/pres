@@ -58,7 +58,6 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 # Digitalization is a strategy, not a thing you can buy
 ---
 # (New and unchartered) collaborative constellations is the only way to succeed.
----
-![Values](assets/images/values.png)
+---?image=assets/images/values.png
 
 
