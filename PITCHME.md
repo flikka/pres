@@ -8,7 +8,7 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
  
 ---
  
-![Statoil Digitalization](https://raw.githubusercontent.com/flikka/pres/master/images/statoil_digitalisering.png)
+![Statoil Digitalization](assets/images/statoil_digitalisering.png)
 
 ---
 
