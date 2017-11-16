@@ -12,9 +12,9 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 
 ---
 
-- ## This is good news!
-- ## But |
-- ## Who and how? |
+## This is good news, but
+- Who? |
+- How? |
 
 ---
 The usual suspects:
