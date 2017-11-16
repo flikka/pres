@@ -1,4 +1,5 @@
 theme : white
 logo : assets/images/logo.jpg
+background : assets/images/white.jpg
 transition : none
 published : false
