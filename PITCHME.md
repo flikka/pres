@@ -15,7 +15,7 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 - How? |
 
 ---
-## The obvious "who"
+## The obvious "who"s
 - Statoil's Digital Center of Excellence |
 - Software Development teams |
 - Research & Development in Statoil |
