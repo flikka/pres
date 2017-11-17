@@ -1,10 +1,7 @@
 Digital buzz, product development and R&D in Statoil’s mainstream business
+</br></br>
+*Kristian Flikka, Statoil IT*
 
----
-
-#### About me:
-- Works for Statoil with Data Science "technologies"
-- Computer science / developer background
  
 ---?image=assets/images/statoil_digitalisering.png
 
