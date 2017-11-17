@@ -42,7 +42,7 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 ### Based on the goals, the path to success will vary!
 ---
 - Goal 1: Enable experts to keep an eye on important indicators 
- - Agree on common data models, master data, make data available through data storage platforms, start using visualization tools.
+ - Agree on common data models, master data, make data available through data storage platforms, start using visualization tools. |
 ---
 - Goal 2: Calculate remaining useful life 
  - Could be easy, could be difficult, could be impossible. Simple "data science" task, or a separate R&D project |
