@@ -27,7 +27,9 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 
 ## The 15922 remaining employees!
 - Everyone will be needed
+---
 
+Digitalization is a strategy, not a thing you can buy
 ---
 
 ## Example:
@@ -36,10 +38,12 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 - Premature failures |
 - Extended lifetime |
 
+
 ---
 ### Based on the goals, the path to success will vary!
----
-### Based on the goals, the path to success will vary!
+
+(De neste, de tre målene, må lages om til en figur, med "trapp") Se notater i OneNote fra prat med Jens.
+
 ---
 - Goal 1: Enable experts to keep an eye on important indicators 
  - Agree on common data models, master data, make data available through data storage platforms, start using visualization tools. |
@@ -49,10 +53,13 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 ---
 - Goal 3: Automatically order parts and schedule maintenance based on condition 
  - Depends on a lot of other IT systems, vendors, etc. Will the cost of implementing it be worth the gain we get? |
----
-Digitalization is a strategy, not a thing you can buy
+
 ---
 (New and unchartered) collaborative constellations is the only way to succeed.
+
+---
+Less planning, more doing, fail, and iterate. Need to steal from Agile software development, Lean startups etc. Your product is never done, it continously lives, and then it dies.
+
 ---?image=assets/images/values.png
 
 
