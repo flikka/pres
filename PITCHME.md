@@ -43,24 +43,20 @@ Digitalization is a strategy, not a thing you can buy
 ### Based on the goals, the path to success will vary!
 
 ---?image=https://rawgit.com/flikka/pres/master/assets/images/simple-complex-1.svg
-
----
-
-(De neste, de tre målene, må lages om til en figur, med "trapp") Se notater i OneNote fra prat med Jens.
-
----
+---?image=https://rawgit.com/flikka/pres/master/assets/images/simple-complex-2.svg
+Note:
 - Goal 1: Enable experts to keep an eye on important indicators 
- - Agree on common data models, master data, make data available through data storage platforms, start using visualization tools. |
----
+ - Agree on common data models, master data, make data available through data storage platforms, start using visualization tools. 
+---?image=https://rawgit.com/flikka/pres/master/assets/images/simple-complex-3.svg
 - Goal 2: Calculate remaining useful life 
- - Could be easy, could be difficult, could be impossible. Simple "data science" task, or a separate R&D project |
----
+ - Could be easy, could be difficult, could be impossible. Simple "data science" task, or a separate R&D project
+
+---?image=https://rawgit.com/flikka/pres/master/assets/images/simple-complex-4.svg
 - Goal 3: Automatically order parts and schedule maintenance based on condition 
  - Depends on a lot of other IT systems, vendors, etc. Will the cost of implementing it be worth the gain we get? |
 
 ---
 (New and unchartered) collaborative constellations is the only way to succeed.
-
 ---
 Less planning, more doing, fail, and iterate. Need to steal from Agile software development, Lean startups etc. Your product is never done, it continously lives, and then it dies.
 
