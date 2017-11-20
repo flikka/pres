@@ -42,7 +42,7 @@ Digitalization is a strategy, not a thing you can buy
 ---
 ### Based on the goals, the path to success will vary!
 
----?image=assets/images/simple-complex-1.pdf
+---?image=assets/images/simple-complex.pdf
 
 ---
 
