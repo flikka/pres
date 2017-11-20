@@ -43,22 +43,32 @@ Digitalization is a strategy, not a thing you can buy
 ### Based on the goals, the path to success will vary!
 
 ---?image=https://rawgit.com/flikka/pres/master/assets/images/simple-complex-1.svg
+Note:
+The "who"s and the hows - depends.
+
 ---?image=https://rawgit.com/flikka/pres/master/assets/images/simple-complex-2.svg
 Note:
-- Goal 1: Enable experts to keep an eye on important indicators 
- - Agree on common data models, master data, make data available through data storage platforms, start using visualization tools. 
+- Example: Enable experts to keep an eye on important indicators 
+- Agree on common data models, master data, make data available through data storage platforms, start using visualization tools.
+
+Less planning, more doing, fail, and iterate. Need to steal from Agile software development, Lean startups etc. Your product is never done, it continously lives, and then it dies.
+
 ---?image=https://rawgit.com/flikka/pres/master/assets/images/simple-complex-3.svg
-- Goal 2: Calculate remaining useful life 
- - Could be easy, could be difficult, could be impossible. Simple "data science" task, or a separate R&D project
+Note:
+- Example: Calculate remaining useful life 
+- Could be easy, could be difficult, could be impossible.
+
+We must think scientifically. Could deploy a "data science" team, or the R&D organization.
 
 ---?image=https://rawgit.com/flikka/pres/master/assets/images/simple-complex-4.svg
-- Goal 3: Automatically order parts and schedule maintenance based on condition 
- - Depends on a lot of other IT systems, vendors, etc. Will the cost of implementing it be worth the gain we get? |
+Note:
+- Example: Automatically order parts and schedule maintenance based on condition 
+- Depends on a lot of other IT systems, vendors, etc. Will the cost of implementing it be worth the gain we get? |
 
 ---
-(New and unchartered) collaborative constellations is the only way to succeed.
+**(New and unchartered) collaborative constellations is the only way to succeed.**
+*The mainstream line cannot do this on their own*
 ---
-Less planning, more doing, fail, and iterate. Need to steal from Agile software development, Lean startups etc. Your product is never done, it continously lives, and then it dies.
 
 ---?image=assets/images/values.png
 
