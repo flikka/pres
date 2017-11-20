@@ -42,6 +42,8 @@ Digitalization is a strategy, not a thing you can buy
 ---
 ### Based on the goals, the path to success will vary!
 
+---?image=assets/images/simple-complex-1.svg
+
 (De neste, de tre målene, må lages om til en figur, med "trapp") Se notater i OneNote fra prat med Jens.
 
 ---
