@@ -30,14 +30,13 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 ---
 
 Digitalization is a strategy, not a thing you can buy
----
 
+---
 ## Example:
 - Maintenance of equipment |
 - Limited lifetime |
 - Premature failures |
 - Extended lifetime |
-
 
 ---
 ### Based on the goals, the path to success will vary!
