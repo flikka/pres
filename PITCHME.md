@@ -68,7 +68,6 @@ Note:
 **(New and unchartered) collaborative constellations is the only way to succeed.**
 </br></br>
 *The mainstream line cannot do this on their own*
----
 
 ---?image=assets/images/values.png
 
