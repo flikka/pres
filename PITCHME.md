@@ -62,7 +62,7 @@ We must think scientifically. Could deploy a "data science" team, or the R&D org
 ---?image=https://rawgit.com/flikka/pres/master/assets/images/simple-complex-4.svg
 Note:
 - Example: Automatically order parts and schedule maintenance based on condition 
-- Depends on a lot of other IT systems, vendors, etc. Will the cost of implementing it be worth the gain we get? |
+- Depends on a lot of other IT systems, vendors, etc. Will the cost of implementing it be worth the gain we get? 
 
 ---
 **(New and unchartered) collaborative constellations is the only way to succeed.**
