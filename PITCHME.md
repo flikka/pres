@@ -8,8 +8,14 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 ---
 
 ## This is good news, but
+- What is it? |
 - Who? |
 - How? |
+
+---
+
+Digitalization is a strategy, not a thing you can buy
+
 
 ---
 ## The obvious "who"s
@@ -27,9 +33,6 @@ Digital buzz, product development and R&D in Statoil’s mainstream business
 
 ## The 15922 remaining employees!
 - Everyone will be needed
----
-
-Digitalization is a strategy, not a thing you can buy
 
 ---
 ## Example:
