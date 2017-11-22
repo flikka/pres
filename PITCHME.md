@@ -67,8 +67,8 @@ Note:
 ---
 **(New and unchartered) collaborative constellations is the only way to succeed.**
 </br></br>
-- Mainstream: Engineers and accountants 
-- Specialists: R&D, data scientists, software & IT
+- Mainstream: Engineers and accountants |
+- Specialists: R&D, data scientists, software & IT |
 ---?image=assets/images/values.png
 
 
