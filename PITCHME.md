@@ -67,8 +67,8 @@ Note:
 ---
 **(New and unchartered) collaborative constellations is the only way to succeed.**
 </br></br>
-- *The mainstream line cannot do this on their own*
-- *BUT NOR CAN THE SPECIALISTS* |
+- The mainstream line cannot do this on their own
+- NOR CAN THE SPECIALISTS |
 
 ---?image=assets/images/values.png
 
