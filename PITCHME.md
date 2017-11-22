@@ -69,7 +69,7 @@ Note:
 </br></br>
 *The mainstream line cannot do this on their own*
 </br></br>
-*BUT NOR CAN THE SPECIALISTS*|
+*BUT NOR CAN THE SPECIALISTS* |
 
 ---?image=assets/images/values.png
 
